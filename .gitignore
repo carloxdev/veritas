@@ -1,0 +1,31 @@
+# OS GENERATED FILES
+# ---------------------------------------
+.DS_Store
+.Trashes
+Thumbs.db
+
+# EDITORES
+# ---------------------------------------
+.vscode/*
+.idea/*
+
+# JAVASCRIPT FILES
+# ---------------------------------------
+**/node_modules
+**/package-lock.json
+
+# DJANGO/PYTHON FILES
+# ---------------------------------------
+**/migrations
+**/__pycache__
+*.pyc
+
+# CELERY FILES
+# ---------------------------------------
+celerybeat-schedule.db
+celerybeat-schedule
+celerybeat-schedule*
+
+# OTHER FILES
+# ---------------------------------------
+*.log
